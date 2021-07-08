@@ -16,9 +16,12 @@ There are two types of chess in GO - black and white. It is stipulated that the 
 
 ## rules of GO
 
-There's 4 liberty for each chess, if all of the liberty is blocked by the opposite color, the chess will be eaten！
+There're 4 liberties for each chess, if all of the liberties are blocked by the opposite color, the chess will be eaten.
 
 ![Image](https://raw.githubusercontent.com/hbfs666/GO/main/20130918104611721.png)
 *The cross here are the liberty of the chess*
 
+With the increase of the chess connected together, there will be more liberties for the chess connected as a whole. Same thing, if the liberties are blocked, the whole chess will be eaten.
 
+![Image](https://raw.githubusercontent.com/hbfs666/GO/main/image.jpeg)
+*since the both of the pieces block one liberty of each other, there're only 6 liberties instead of 8.*
