@@ -14,7 +14,8 @@ There are two types of chess in GO - black and white. It is stipulated that the 
 
 ![Image](https://n.sinaimg.cn/sports/transform/11/w496h315/20200308/8e23-iqrhckm2022398.png)
 
->"If there are other intelligent life forms in the universe, they will almost certainly be able to go."
+>"If there are other intelligent life forms in the universe, they will almost certainly be able to play go."
+>
 > -- Chess master Emmanuel Lasker 
 
 ## rules of GO
