@@ -1,8 +1,16 @@
 # Welcome to the journey of Learning GO
 
-## History of Go
+
+## How Go got created
 
 Go is a stratergy chess game originated in China. It uses a grid-shaped board and black & white chesses. According to legend, Go was invented by Emperor Yao more than 4,000 years ago. Since His son Danzhu was very self-satisfied, Emperor Yao invented Go to cultivate his son's character.
+
+![Image](https://i0.hdslb.com/bfs/article/4d1da7b814077f00033d146cbef7aedbb29d679d.jpg@942w_563h_progressive.webp)
+
+
+## How to win a Go match 
+
+There are two types of chess in Go - black and white. It is stipulated that the black side shall go first, then the two players will alternately place black and white pieces at the intersections of the chessboard grid of nineteen by nineteen lines. After the move is completed, you cannot regret the move. In the course of the game, you encircle the ground and "eat" the opponent's chess. The victory or defeat is determined by how much land you surrounded.
 
 ![Image](https://n.sinaimg.cn/sports/transform/11/w496h315/20200308/8e23-iqrhckm2022398.png)
 
