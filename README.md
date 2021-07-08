@@ -1,10 +1,10 @@
-## Welcome to the journey of Learning GO
+# Welcome to the journey of Learning GO
 
-# History of Go
+## History of Go
 
 Go is a stratergy chess game originated in China. It uses a grid-shaped board and black & white chesses. According to legend, Go was invented by Emperor Yao more than 4,000 years ago. Since His son Danzhu was very self-satisfied, Emperor Yao invented Go to cultivate his son's character.
 
-![Image](https://www.google.com/imgres?imgurl=http%3A%2F%2Fn.sinaimg.cn%2Fsports%2Ftransform%2F11%2Fw496h315%2F20200308%2F8e23-iqrhckm2022398.png&imgrefurl=https%3A%2F%2Fsports.sina.com.cn%2Fgo%2F2020-03-08%2Fdoc-iimxyqvz8811030.shtml&tbnid=BwgK7ipIgAOmrM&vet=12ahUKEwie-IqrhdTxAhUJTFMKHb-nDooQMygBegUIARCvAQ..i&docid=M1T2h6LqxrqggM&w=496&h=315&q=%E5%9B%B4%E6%A3%8B&ved=2ahUKEwie-IqrhdTxAhUJTFMKHb-nDooQMygBegUIARCvAQ)
+![Image](https://n.sinaimg.cn/sports/transform/11/w496h315/20200308/8e23-iqrhckm2022398.png)
 
 ### Markdown
 
