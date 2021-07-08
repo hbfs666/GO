@@ -19,6 +19,6 @@ There are two types of chess in GO - black and white. It is stipulated that the 
 There's 4 liberty for each chess, if all of the liberty is blocked by the opposite color, the chess will be eaten！
 
 ![Image](https://raw.githubusercontent.com/hbfs666/GO/main/20130918104611721.png)
-fuck
+*The cross here are the liberty of the chess*
 
 
