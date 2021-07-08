@@ -5,7 +5,7 @@
 
 GO is a stratergy chess game originated in China. It uses a grid-shaped board and black & white chesses. According to legend, GO was invented by Emperor Yao more than 4,000 years ago. Since His son Danzhu was very self-satisfied, Emperor Yao invented Go to cultivate his son's character.
 
-![Image](https://github.com/hbfs666/GO/blob/main/016895.png)
+![Image](https://raw.githubusercontent.com/hbfs666/GO/main/016895.png)
 
 
 ## How to win a GO match 
@@ -19,4 +19,6 @@ There are two types of chess in GO - black and white. It is stipulated that the 
 There's 4 liberty for each chess, if all of the liberty is blocked by the opposite color, the chess will be eaten！
 
 ![Image](https://raw.githubusercontent.com/hbfs666/GO/main/20130918104611721.png)
+fuck
+
 
