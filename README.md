@@ -5,7 +5,7 @@
 
 Go is a stratergy chess game originated in China. It uses a grid-shaped board and black & white chesses. According to legend, Go was invented by Emperor Yao more than 4,000 years ago. Since His son Danzhu was very self-satisfied, Emperor Yao invented Go to cultivate his son's character.
 
-![Image](http://www.fengsuwang.com/pic/016895.jpg)
+![Image](http://www.fengsuwang.com/pic/016895.png)
 
 
 ## How to win a Go match 
@@ -15,5 +15,8 @@ There are two types of chess in Go - black and white. It is stipulated that the 
 ![Image](https://n.sinaimg.cn/sports/transform/11/w496h315/20200308/8e23-iqrhckm2022398.png)
 
 ## rules of Go
+
+There
+
 
 
