@@ -28,6 +28,11 @@ There are two types of chess in GO - black and white. It is stipulated that the 
 * With the increase of the chess connected together, there will be more liberties for the chess connected as a whole. Same thing, if the liberties are blocked, the whole chess will be eaten.
 
 ![Image](https://raw.githubusercontent.com/hbfs666/GO/main/image.jpeg)
-**_since the both of the pieces block one liberty of each other, there're only 6 liberties instead of 8._**
+**_Since the both of the pieces block one liberty of each other, there're only 6 liberties instead of 8._**
 
 * The victory is considered by comparing the area each player got, the side with more area wins. Because of that , the area should be expanded as much as possible during the game.
+
+![Image](https://github.com/hbfs666/GO/blob/main/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-08-03%2015.55.05.png)
+**_In this case, the black side wins because there's more area surrounded with black's chess._**
+
+* Also, In the rules of Go, the black chess need to surround 3 and 3/4 more area than white. Because black chess can place chess first and that gives the black side a little more advantage.
