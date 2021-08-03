@@ -25,7 +25,7 @@ There are two types of chess in GO - black and white. It is stipulated that the 
 ![Image](https://raw.githubusercontent.com/hbfs666/GO/main/20130918104611721.png)
 **_The crosses here are the liberty of the chess._**
 
-With the increase of the chess connected together, there will be more liberties for the chess connected as a whole. Same thing, if the liberties are blocked, the whole chess will be eaten.
+* With the increase of the chess connected together, there will be more liberties for the chess connected as a whole. Same thing, if the liberties are blocked, the whole chess will be eaten.
 
 ![Image](https://raw.githubusercontent.com/hbfs666/GO/main/image.jpeg)
 **_since the both of the pieces block one liberty of each other, there're only 6 liberties instead of 8._**
