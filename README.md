@@ -1,7 +1,7 @@
 # Welcome to the journey of Learning GO
 
 
-## How GO got created
+## How GO was created
 
 GO is a stratergy chess game originated in China. It uses a grid-shaped board and black & white chesses. According to legend, GO was invented by Emperor Yao more than 4,000 years ago. Since His son Danzhu was very self-satisfied, Emperor Yao invented Go to cultivate his son's character.
 
@@ -20,7 +20,7 @@ There are two types of chess in GO - black and white. It is stipulated that the 
 
 ## rules of GO
 
-There're 4 liberties for each chess, if all of the liberties are blocked by the opposite color, the chess will be eaten.
+* There're 4 liberties for each chess, if all of the liberties are blocked by the opposite color, the chess will be eaten.
 
 ![Image](https://raw.githubusercontent.com/hbfs666/GO/main/20130918104611721.png)
 **_The crosses here are the liberty of the chess._**
@@ -29,3 +29,5 @@ With the increase of the chess connected together, there will be more liberties 
 
 ![Image](https://raw.githubusercontent.com/hbfs666/GO/main/image.jpeg)
 **_since the both of the pieces block one liberty of each other, there're only 6 liberties instead of 8._**
+
+* The victory is considered by comparing the area each player got, the side with more area wins. Because of that , the area should be expanded as much as possible during the game.
