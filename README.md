@@ -32,7 +32,7 @@ There are two types of chess in GO - black and white. It is stipulated that the 
 
 * The victory is considered by comparing the area each player got, the side with more area wins. Because of that , the area should be expanded as much as possible during the game.
 
-![Image](https://github.com/hbfs666/GO/blob/main/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-08-03%2015.55.05.png)
+![Image](https://raw.githubusercontent.com/hbfs666/GO/main/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-08-03%2015.55.05.png)
 **_In this case, the black side wins because there's more area surrounded with black's chess._**
 
 * Also, In the rules of Go, the black chess need to surround 3 and 3/4 more area than white. Because black chess can place chess first and that gives the black side a little more advantage.
