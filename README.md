@@ -35,4 +35,4 @@ There are two types of chess in GO - black and white. It is stipulated that the 
 ![Image](https://raw.githubusercontent.com/hbfs666/GO/main/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-08-03%2015.55.05.png)
 **_In this case, the black side wins because there's more area surrounded with black's chess._**
 
-* Also, In the rules of Go, the black chess need to surround 3 and 3/4 more area than white. Because black chess can place chess first and that gives the black side a little more advantage.
+* Also, In the rules of Go, the black chess need to surround 3 and 3/4 more space than white. Because black chess can place chess first and that gives the black side a little more advantage.
